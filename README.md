@@ -27,6 +27,8 @@ The platform is built on a decoupled, event-driven architecture to ensure each c
 4.  **Frontend Visualization**: The **Blazor WebAssembly** dashboard establishes a persistent connection to the SignalR service. It receives new log entries as they happen and dynamically updates the UI.
 5.  **Observability & Monitoring**: **Azure Application Insights** is deeply integrated into the API, providing rich performance metrics, dependency tracking, and distributed tracing.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a2573d8c-0227-49ce-9ce1-0e000f4626af" />
+
 ## Technology Stack
 
 * **Languages & Frameworks**: C#, .NET 8, ASP.NET Core, Blazor WebAssembly
